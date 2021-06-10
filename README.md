@@ -1,3 +1,5 @@
 # Qt5_Intermediate_10.3_WorkingWithOS_ExitCodes
 
-#SourceCode to be added soon
+#Under working with Operating system, Exit codes discussed and
+
+#SourceCode added 
